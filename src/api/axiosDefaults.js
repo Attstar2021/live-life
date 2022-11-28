@@ -1,3 +1,5 @@
 import axios from "axios";
 
-axios.defaults.baseURL = 'https://livelife-api.herokuapp.com/'
+axios.defaults.baseURL = 'https://live-life-api.herokuapp.com/'
+axios.defaults.headers.post["Content-Type"] = "multipart/form-data";
+axios.defaults.withCredentials = true;
