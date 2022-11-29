@@ -1,6 +1,6 @@
 NavBar {
-    background-color:oldlace;
-    border: 1px solid #dadadf;
+    background-color: rgb(255, 196, 0);
+    border: rgb(255, 196, 0) 1px solid ;
 }
 
 .NavLink {
