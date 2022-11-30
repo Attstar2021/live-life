@@ -88,6 +88,7 @@ const NavBar = () => {
             <img src={logo} alt="logo" height="65" />
           </Navbar.Brand>
         </NavLink>
+        
         {currentUser && addPostIcon}
         <Navbar .Toggle ref={ref}
           onClick={() => setExpanded(!expanded)} aria-controls='basic-navbar-nav'/>
