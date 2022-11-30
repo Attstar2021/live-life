@@ -40,6 +40,7 @@ export const CurrentUserProvider = ({ children }) => {
               }
               return null;
             });
+            removeTokenTimestamp();
             return config;
           }
         }
