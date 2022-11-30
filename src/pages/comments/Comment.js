@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Media } from "react-bootstrap";
+import Media from "react-bootstrap/Media";
 import { Link } from "react-router-dom";
 import Avatar from "../../components/Avatar";
 import { MoreDropdown } from "../../components/MoreDropdown";
@@ -67,8 +67,11 @@ const Comment = (props) => {
             <p>{content}</p>
           )}
         </Media.Body>
-        {is_owner && (
-          <MoreDropdown handleEdit={() => {}} handleDelete={handleDelete} />
+        {is_owner && !showEditForm && (
+          <MoreDropdown
+            handleEdit={() => setShowEditForm(true)}
+            handleDelete={handleDelete}
+          />
         )}
       </Media>
     </>

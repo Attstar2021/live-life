@@ -9,12 +9,12 @@ import Alert from "react-bootstrap/Alert";
 import Image from "react-bootstrap/Image";
 
 import Asset from "../../components/Asset";
-
 import Upload from "../../assets/upload.png";
 
 import styles from "../../styles/PostCreateEditForm.module.css";
 import appStyles from "../../App.module.css";
 import btnStyles from "../../styles/Button.module.css";
+
 import { useHistory } from "react-router";
 import { axiosReq } from "../../api/axiosDefaults";
 import { useRedirect } from "../../hooks/useRedirect";
@@ -62,7 +62,7 @@ function PostCreateForm() {
       const { data } = await axiosReq.post("/posts/", formData);
       history.push(`/posts/${data.id}`);
     } catch (err) {
-      console.log(err);
+      // console.log(err);
       if (err.response?.status !== 401) {
         setErrors(err.response?.data);
       }
