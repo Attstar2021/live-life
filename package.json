@@ -1,6 +1,6 @@
 {
   "name": "livelife",
-  "version": "0.1.0",
+  "version": "8.19.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
