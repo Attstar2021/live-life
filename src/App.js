@@ -1,4 +1,5 @@
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 import styles from "./App.module.css";
 import Container from 'react-bootstrap/Container';
 import { Route, Switch } from "react-router-dom";
@@ -54,6 +55,7 @@ function App() {
         />
         <Route render={() => <NotFound/>} />
       </Switch>
+      <Footer />
     </Container>
   </div>
   );
