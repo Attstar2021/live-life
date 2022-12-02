@@ -11,25 +11,23 @@ Footer{
 
 
 }
-a{
+.Social{
     justify-content: center;
 }
-a:hover {
+i:hover {
     opacity: 0.8;
     border-color: transparent;
     cursor: pointer;
   }
   
-  a:hover:active {
+  i:hover:active {
     background-color: olivedrab !important;
   }
-  
-  a:active {
-    background-color: olivedrab !important;
-  }
+
   
 @media only screen and (max-width: 480px) {
     .social {
       text-align:center;
+      height: 25px;
     }
 }

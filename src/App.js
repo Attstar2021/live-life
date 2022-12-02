@@ -55,8 +55,8 @@ function App() {
         />
         <Route render={() => <NotFound/>} />
       </Switch>
+      </Container>
       <Footer />
-    </Container>
   </div>
   );
 }

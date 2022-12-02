@@ -19,16 +19,13 @@ import { fetchMoreData } from "../../utils/utils";
 import PopularProfiles from "../profiles/PopularProfiles";
 import { useCurrentUser } from "../../contexts/CurrentUserContext";
 
-function PostsPage({ message, filter = ""}) {
+function PostsPage({ message, filter = "" }) {
   const [posts, setPosts] = useState({ results: [] });
   const [hasLoaded, setHasLoaded] = useState(false);
   const { pathname } = useLocation();
   const [query, setQuery] = useState("");
 
   const currentUser = useCurrentUser();
-
-  
-
 
   useEffect(() => {
     const fetchPosts = async () => {
@@ -51,13 +48,14 @@ function PostsPage({ message, filter = ""}) {
 
   }, [filter, query, pathname, currentUser]);
   
+
   return (
     <Row className="h-100">
       <Col className="py-2 p-0 p-lg-2" lg={8}>
         <PopularProfiles mobile />
         <i className={`fas fa-search ${styles.SearchIcon}`}/>
         <Form className={styles.SearchBar}
-        onSubmit={(event) => event.preventDefault()}>
+          onSubmit={(event) => event.preventDefault()}>
           <Form.Control
             value={query}
             onChange={(event) => setQuery(event.target.value)}
@@ -67,7 +65,7 @@ function PostsPage({ message, filter = ""}) {
           <>
             {posts.results.length ? (
                <InfiniteScroll
-               children={posts.results.map((post) => (
+                children={posts.results.map((post) => (
                  <Post key={post.id} {...post} setPosts={setPosts} />
                ))}
                dataLength={posts.results.length}

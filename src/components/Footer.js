@@ -1,23 +1,23 @@
 import React from "react";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Container from "react-bootstrap/Container";
 import styles from "../styles/Footer.module.css";
+import { NavLink } from "react-router-dom";
+import Container from "react-bootstrap/Container";
 
 const Footer = () => {
   return (
-    <div className={styles.social}>
-		<Container>
-			<Row>
-				<Col>
-					<a href="https://www.facebook.com"> <i class="fab fa-facebook"></i></a>
-					<a href="https://www.twitter.com"><i class="fab fa-twitter"></i></a>
-					<a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
-				</Col>
-			</Row>
-      </Container>
-
-	</div>
+    <Container className={styles.Social}>
+		<NavLink
+			to="https://www.facebook.com">
+        	<i class="fab fa-facebook"></i>
+     	</NavLink>
+		<NavLink
+			to="https://www.twitter.com">
+        	<i className="fab fa-twitter"></i>
+     	</NavLink>
+		<NavLink to="https://www.instagram.com">
+        	<i className="fab fa-instagram"></i>
+     	</NavLink>
+	</Container>
   );
 };
 
