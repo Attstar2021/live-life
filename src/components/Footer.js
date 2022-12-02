@@ -12,7 +12,7 @@ const Footer = () => {
 	<div className={styles.Footer}>
     <Container className={styles.Social} fluid align-text-bottom="True">
 		<Button href="https://www.facebook.com"><FaFacebook color="#ffffff"/></Button>
-		<Button href="https://www.twitter.com"><FaInstagram color="#00ace"/></Button>
+		<Button href="https://www.twitter.com">< FaInstagram color="#00ace"/></Button>
 		<Button href="https://www.instagram.com"><FaTwitter color="#00ace"/></Button>
 	</Container>
 	</div>
