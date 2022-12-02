@@ -1,18 +1,21 @@
 import React from "react";
 import styles from "../styles/Footer.module.css";
+import Button from "react-bootstrap/Button";
+import {FaTwitter} from 'react-icons/fa'
+import { FaInstagram } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
+import { Container } from "react-bootstrap";
 
 
 const Footer = () => {
   return (
-    <Container className={styles.Social} fluid align-text-bottom>
-		<MDBBtn style={{ backgroundColor: '#55acee' }} href="https://www.facebook.com">
-        <MDBIcon className='me-2' fab icon="facebook" /> Facebook
-    	</MDBBtn> <MDBBtn style={{ backgroundColor: '#55acee' }} href="https://www.twitter.com">>
-      	<MDBIcon className='me-2' fab icon="twitter" /> Twitter
-    	</MDBBtn> <MDBBtn style={{ backgroundColor: '#55acee' }} href="https://www.instagram.com">
-      	<MDBIcon className='me-2' fab icon="instagram" /> Instagram
-    	</MDBBtn>
+	<div className={styles.Footer}>
+    <Container className={styles.Social} fluid align-text-bottom="True">
+		<Button href="https://www.facebook.com"><FaFacebook color="#ffffff"/></Button>
+		<Button href="https://www.twitter.com"><FaInstagram color="#00ace"/></Button>
+		<Button href="https://www.instagram.com"><FaTwitter color="#00ace"/></Button>
 	</Container>
+	</div>
   );
 };
 

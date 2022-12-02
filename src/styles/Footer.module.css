@@ -1,27 +1,29 @@
-Footer{
+.Footer{
     background-color: rgb(255, 196, 0);
     border: rgb(255, 196, 0) 1px solid ;
-    margin-top: 1rem;
-    padding: 1rem;
+    margin-top: 5px;
+    padding: 5px;
     position: fixed;
     bottom: 0;
     padding-bottom: 0%;
     width: 100%;
     text-align:center;
-
+    display: flex;
+    justify-content: space-between;
 
 }
 .Social{
     justify-content: center;
+    gap: 2px;
 }
-i:hover {
+Button:hover {
     opacity: 0.8;
     border-color: transparent;
     cursor: pointer;
   }
   
-  i:hover:active {
-    background-color: olivedrab !important;
+Button:hover:active {
+    background-color: rgb(102, 145, 17) !important;
   }
 
   
