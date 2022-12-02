@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 
 const Footer = () => {
   return (
-    <Container className={styles.Social}>
+    <Container className={styles.Social} fluid align-text-bottom>
 		<NavLink
 			to="https://www.facebook.com">
         	<i class="fab fa-facebook"></i>
