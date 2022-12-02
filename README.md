@@ -170,6 +170,7 @@ Click [Here](h#) to retrieve pictures for some of the buttons and more detailed 
 ## Credits
 
 ### Code
+The thyme of the application is influenced by Code Institute's walkthrough project Moments
 
 - 
 ### Content
@@ -178,9 +179,11 @@ Click [Here](h#) to retrieve pictures for some of the buttons and more detailed 
 
 ### Media
 
+Images has been taken from https://pixabay.com and code institue
+
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor Rohit for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
