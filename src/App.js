@@ -23,7 +23,9 @@ function App() {
   const profile_id = currentUser?.profile_id || "";
   
   return (
-  <div className={styles.App}>
+  <div className={styles.App} style={{ 
+    backgroundImage: `url("https://assets.wallpapersin4k.org/uploads/2017/04/Big-Size-Nature-Wallpaper-3.jpg")` 
+  }}>>
     <NavBar />
     <Container className={styles.Main}>
       <Switch>

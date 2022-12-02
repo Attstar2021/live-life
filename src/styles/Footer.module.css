@@ -14,7 +14,7 @@
 }
 .Social{
     justify-content: center;
-    gap: 2px;
+    padding: 5px;
 }
 Button:hover {
     opacity: 0.8;

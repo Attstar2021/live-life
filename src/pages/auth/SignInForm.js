@@ -57,7 +57,7 @@ function SignInForm() {
       >
         <Image
           className={`${appStyles.FillerImage}`}
-          src={"https://cdn.pixabay.com/photo/2015/07/31/20/37/surf-869583_960_720.jpg"}
+          src={"https://cdn.pixabay.com/photo/2016/11/16/17/02/butterfly-1829404_960_720.jpg"}
         />
       </Col>
       <Col className="my-auto p-0 p-md-2" md={6}>
