@@ -10,14 +10,16 @@ This is a social media  website for a small community who wants to have friends 
 
 ![1 (2)](https://user-images.githubusercontent.com/91749477/205432312-15bbdbb5-f4ee-46ed-963e-276673af6de5.jpg)
 
--   ### User stories
+   ### User stories
 
-    -   #### First Time Visitor Goals
+       #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about my commuinty.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would be easy to access.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would 
+        be easy to access.
         3. As a First Time Visitor, I want to look for popular profiles to stay in with trends.
-        4. As a First Time Visitor, I want to have easy to signup procedure so that, I can create a new account to access all the features for signed up users
+        4. As a First Time Visitor, I want to have easy to signup procedure so that, I can create a new account to access all the
+        features for signed up users
 
 
 
@@ -26,11 +28,12 @@ This is a social media  website for a small community who wants to have friends 
 
 ![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
 
- -   #### Returning Visitor Goals
+   #### Returning Visitor Goals
 
         1. As a Returning Visitor user, I want to sign in to the app so that I can access functionality for logged in users
         2.  As a Returning Visitor, I want to stay updated with online friends.
-        3. As a Returing Visitor, I want to keep my favorite people so that I can check theirs comments and posts through filter options.
+        3. As a Returing Visitor, I want to keep my favorite people so that I can check theirs comments and
+         posts through filter options.
         4. As a Returning Visitor, I want to find the their views and thoughts about other places and things.
         5. As a Returning Visitor, I want to find community links.
 
@@ -39,7 +42,7 @@ This is a social media  website for a small community who wants to have friends 
 
 
    
-    -   #### Frequent User Goals
+      #### Frequent User Goals
         1.
         As a Frequent User, I want to check to see what comments I got.
         2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
@@ -51,6 +54,7 @@ This is a social media  website for a small community who wants to have friends 
 -   
     -   #### Colour Scheme
         -   The two main colours used are yellow and green.
+        -   
     -   #### Typography
         -   The DM Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. DM Sans is a clean font, so it is attractive and appropriate.
 
@@ -95,26 +99,39 @@ This is a social media  website for a small community who wants to have friends 
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   REACTJS
--   DJANGO
--   POSGRESSQL
+-   [JAVASCRIPT](https://en.wikipedia.org/wiki/JavaScript)
+-   [PYTHON](https://en.wikipedia.org/wiki/Python_(programming_language))
+-   [POSTGRESQL](https://en.wikipedia.org/wiki/PostgreSQL)
 
 ### Frameworks, Libraries & Programs Used
 
-1. [ReactBootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+1. [ReactJS:](https://en.wikipedia.org/wiki/React_(JavaScript_library)) 
+ - React was use as a front-end JavaScript library for building user interfaces based on UI components.
+2. [Django REST Framework:](https://en.wikipedia.org/wiki/Django_(web_framework))
+ - DRF was used for back-end API.
+4. [ElephentSQL:](https://www.elephantsql.com/)
+ -  Elephant was used for SQL queries to create, read, update and delete data directly from my web browser.
+5. [ReactBootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.  
+6. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.    
+7. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.     
+8. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.    
+9. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+10. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git
+11. [Cloudinary:](https://en.wikipedia.org/wiki/Cloudinary)
+   - Cloudinary was used for to upload images and to store, manage, manipulate, and deliver for websites and apps.
+12. [JustinMind:](https://en.wikipedia.org/wiki/Justinmind_(software))
+   - justinMind was used to make wireframes for this project.
+13. [Wix:](https://en.wikipedia.org/wiki/Wix.com)
+  - Wix was use to make logo for this website
+14.[favicon.io:] (https://favicon.io/favicon-converter/)
+  -  Favicon.io was used to create favicon for this website.
+
 
 ## Testing
 
