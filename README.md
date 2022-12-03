@@ -4,9 +4,40 @@
 
 This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and partners.
 
-<h2 align="center"><img src="#"></h2>
+
 
 ## User Experience (UX)
+![1 (2)](https://user-images.githubusercontent.com/91749477/205432312-15bbdbb5-f4ee-46ed-963e-276673af6de5.jpg)
+
+
+
+
+![4 (2)](https://user-images.githubusercontent.com/91749477/205432347-ea41efda-18dd-4e81-81c1-a0a8edd9a82c.jpg)
+
+
+
+
+
+
+
+![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
+
+
+
+
+
+
+![3 (2)](https://user-images.githubusercontent.com/91749477/205432363-6bf63bed-7b1f-420c-a14a-cca80176c9c0.jpg)
+
+
+
+![5 (2)](https://user-images.githubusercontent.com/91749477/205432367-7100cec6-4094-46ed-b7a0-ec3225ad612f.jpg)
+
+
+
+
+
+
 
 -   ### User stories
 
@@ -34,9 +65,24 @@ This is a social media  website for a small community who wants to have friends 
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    ####  Home Page Wireframe - 
+    
+    - Main Page
+![wireframe (2)](https://user-images.githubusercontent.com/91749477/205432409-7f88467a-9bf4-4252-977b-bda54a0a1e4d.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+ - Sign in & Sign up
+ 
+ ![sign in screen (2)](https://user-images.githubusercontent.com/91749477/205432455-5dfaa5e4-6151-42c5-ac74-f0f12ffeac01.png)
+
+![sign up screen (2)](https://user-images.githubusercontent.com/91749477/205432461-1284e13a-e183-462f-b55f-0cae24e7c3dc.png)
+
+
+    ####  Mobile Wireframe - [View](https://github.com/)
+    
+    ![mobile (3)](https://user-images.githubusercontent.com/91749477/205432469-57b6f652-6dfe-45cf-b02a-72cf4f214af3.png)
+![mobile signin (2)](https://user-images.githubusercontent.com/91749477/205432475-e3196884-fce4-4fe9-995b-c660af081a00.png)
+
+![m signup (2)](https://user-images.githubusercontent.com/91749477/205432486-82bb990c-8d80-48d7-bb46-64220f276c0d.png)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
 
@@ -138,12 +184,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+![lighthouse s (2)](https://user-images.githubusercontent.com/91749477/205432554-204f3b46-e175-4283-a75e-02819d0141e6.png)
+
+
+-   The Website was tes![Uploading lighthouse s (2).png…]()
+ted on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
+
+![error3 (2)](https://user-images.githubusercontent.com/91749477/205432578-44e9fd0c-3882-472f-bd60-b4eccf517e53.png)
+
+![lighthouse m (2)](https://user-images.githubusercontent.com/91749477/205432530-2bfb74aa-ab4c-4238-8024-3361f2887e99.png)
 
 -   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
