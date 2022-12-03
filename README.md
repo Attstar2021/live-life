@@ -171,7 +171,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-```
+
 ### Heroku
 
 1. Log into Heroku and go to the Dashboard, Click “New” then Click “Create new app” then select "create a new app"
@@ -192,20 +192,14 @@ The project was deployed to GitHub Pages using the following steps...
 ## Credits
 
 ### Code
-The thyme of the application is influenced by Code Institute's walkthrough project Moments
 
-- 
-### Content
-
-
+The basic code and theme of the application is influenced by Code Institute's walkthrough project "Moments"
 
 ### Media
 
-Images has been taken from https://pixabay.com and code institue
-
+1. [Pixbay](https://pixabay.com)
+2. [code Institute](https://codeinstitute.net/)
 
 ### Acknowledgements
 
--   My Mentor Rohit for continuous helpful feedback.
-
--   Tutor support at Code Institute for their support.
+With Thanks and regards to Code Institute for getting me this far from it's excellant modules content, its Tutor Assistance team for all help and dedications and my mentor Rohit for his expertise, guidance and support.
