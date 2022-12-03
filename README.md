@@ -7,59 +7,50 @@ This is a social media  website for a small community who wants to have friends 
 
 
 ## User Experience (UX)
+
 ![1 (2)](https://user-images.githubusercontent.com/91749477/205432312-15bbdbb5-f4ee-46ed-963e-276673af6de5.jpg)
-
-
-
-
-![4 (2)](https://user-images.githubusercontent.com/91749477/205432347-ea41efda-18dd-4e81-81c1-a0a8edd9a82c.jpg)
-
-
-
-
-
-
-
-![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
-
-
-
-
-
-
-![3 (2)](https://user-images.githubusercontent.com/91749477/205432363-6bf63bed-7b1f-420c-a14a-cca80176c9c0.jpg)
-
-
-
-![5 (2)](https://user-images.githubusercontent.com/91749477/205432367-7100cec6-4094-46ed-b7a0-ec3225ad612f.jpg)
-
-
-
-
-
-
 
 -   ### User stories
 
     -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about my commuinty.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for popular profiles to understand what sort of community share their thoughts here. I also want to locate their social media links to see their followings on social media to determine friendly and welcoming they are.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would be easy to access.
+        3. As a First Time Visitor, I want to look for popular profiles to stay in with trends.
+        4. As a First Time Visitor, I want to have easy to signup procedure so that, I can create a new account to access all the features for signed up users
 
-    -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to stay updated with online friends.
-        2. As a Returning Visitor, I want to find the their views and thoughts about other places and things.
-        3. As a Returning Visitor, I want to find community links.
 
+![4 (2)](https://user-images.githubusercontent.com/91749477/205432347-ea41efda-18dd-4e81-81c1-a0a8edd9a82c.jpg)
+
+
+![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
+
+ -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor user, I want to sign in to the app so that I can access functionality for logged in users
+        2.  As a Returning Visitor, I want to stay updated with online friends.
+        3. As a Returing Visitor, I want to keep my favorite people so that I can check theirs comments and posts through filter options.
+        4. As a Returning Visitor, I want to find the their views and thoughts about other places and things.
+        5. As a Returning Visitor, I want to find community links.
+
+
+![3 (2)](https://user-images.githubusercontent.com/91749477/205432363-6bf63bed-7b1f-420c-a14a-cca80176c9c0.jpg)
+
+
+   
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see what comments I got and how it would help me to carry on my tasks.
-        2. As a Frequent User, I want to check to see if there are any new blog posts
+        1.
+        As a Frequent User, I want to check to see what comments I got.
+        2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
+        3. As a Frequent User, I want to  create posts so that I can share my thoughts and  with the online community.
+        4.  As a Frequent User, I want to view the details of a single post so that I can learn more about it
+        
 
 -   ### Design
+-   
     -   #### Colour Scheme
-        -   The two main colours used are yellow and olive green.
+        -   The two main colours used are yellow and green.
     -   #### Typography
         -   The DM Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. DM Sans is a clean font, so it is attractive and appropriate.
 
@@ -68,23 +59,29 @@ This is a social media  website for a small community who wants to have friends 
     ####  Home Page Wireframe - 
     
     - Main Page
+   
 ![wireframe (2)](https://user-images.githubusercontent.com/91749477/205432409-7f88467a-9bf4-4252-977b-bda54a0a1e4d.png)
 
- - Sign in & Sign up
+   - Sign in & Sign up
+   
+     
  
  ![sign in screen (2)](https://user-images.githubusercontent.com/91749477/205432455-5dfaa5e4-6151-42c5-ac74-f0f12ffeac01.png)
 
 ![sign up screen (2)](https://user-images.githubusercontent.com/91749477/205432461-1284e13a-e183-462f-b55f-0cae24e7c3dc.png)
 
 
-    ####  Mobile Wireframe - [View](https://github.com/)
+ ####  Mobile Wireframe 
+   - Main Page
+    -
+
+   ![mobile (3)](https://user-images.githubusercontent.com/91749477/205433873-23c2918a-6ba3-4dc9-8c89-c5dc4857f493.png)
+
+   
+   - Sign in & Sign up
     
-    ![mobile (3)](https://user-images.githubusercontent.com/91749477/205432469-57b6f652-6dfe-45cf-b02a-72cf4f214af3.png)
-![mobile signin (2)](https://user-images.githubusercontent.com/91749477/205432475-e3196884-fce4-4fe9-995b-c660af081a00.png)
+![mobile signin (2)](https://user-images.githubusercontent.com/91749477/205432475-e3196884-fce4-4fe9-995b-c660af081a00.png) ![m signup (2)](https://user-images.githubusercontent.com/91749477/205432486-82bb990c-8d80-48d7-bb46-64220f276c0d.png)
 
-![m signup (2)](https://user-images.githubusercontent.com/91749477/205432486-82bb990c-8d80-48d7-bb46-64220f276c0d.png)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
