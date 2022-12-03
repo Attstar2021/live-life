@@ -12,7 +12,7 @@ This is a social media  website for a small community who wants to have friends 
 
    ### User stories
 
-       #### First Time Visitor Goals
+  #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about my commuinty.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would 
@@ -42,10 +42,10 @@ This is a social media  website for a small community who wants to have friends 
 
 
    
-      #### Frequent User Goals
-        1.
-        As a Frequent User, I want to check to see what comments I got.
-        2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
+   #### Frequent User Goals
+        1.As a Frequent User, I want to check to see what comments I got.
+        2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without 
+         scrolling through old posts.
         3. As a Frequent User, I want to  create posts so that I can share my thoughts and  with the online community.
         4.  As a Frequent User, I want to view the details of a single post so that I can learn more about it
         
