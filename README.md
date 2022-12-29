@@ -131,6 +131,8 @@ This is a social media  website for a small community who wants to have friends 
   - Wix was use to make logo for this website
 14. [favicon.io:](https://favicon.io/favicon-converter/)
   -  Favicon.io was used to create favicon for this website.
+15. [Pillow:](https://pypi.org/project/Pillow/)
+  - This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities
 
 
 ## Testing
