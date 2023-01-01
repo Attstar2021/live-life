@@ -133,7 +133,17 @@ This is a social media  website for a small community who wants to have friends 
   -  Favicon.io was used to create favicon for this website.
 15. [Pillow:](https://pypi.org/project/Pillow/)
   - This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities
-
+"axios": "^0.21.4",
+    "bootstrap": "^4.6.0",
+    "jwt-decode": "^3.1.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.7.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^1.1.2"
 
 ## Testing
 
