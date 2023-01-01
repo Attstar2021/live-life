@@ -176,19 +176,28 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Heroku
 
+**Heruku deployment for Front-End**
+
 1. Log into Heroku and go to the Dashboard, Click “New” then Click “Create new app” then select "create a new app"
 
 2. Give your app a name and select the region closest to you, then click “Create app”.
 
-3. Open the Settings tab and Add a Config Var DATABASE_URLfrom ElephantSQL, SECRET_KEY from env.py file of your repo and CLOUDINARY_URL from Cloudinary.
+3. Now that our app is created, let's  connect it to our Github repository by clicking Deploy tab
 
-4. Open the Deploy tab and in the Deployment method section, search for your repo and click Connect
+4. In Deployment method section, click on “Github” and search for your repo and click Connect
 
-5. You can click  Enable Automatic Deploys or Manual deploy and then click Deploy Branch.
+5. Enable Automatic Deploys or Manual deploy, once that’s wired up and then click "Deploy Branch" which will trigger Heroku to start.
 
 6. when log showing a successful build then your app ready and deployed.
 
-7. Open app button and your back-end API for this project is up and running
+7. Click the “open app” button and check it out, you app is up and running
+
+
+
+**Heruku deployment for Back-End**
+
+[Please click here to see Back-End deployment steps](https://github.com/Attstar2021/livelife-drf-api/blob/main/README.md)
+
 
 
 ## Credits
