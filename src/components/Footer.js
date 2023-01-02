@@ -11,9 +11,9 @@ const Footer = () => {
   return (
 	<div className={styles.Footer}>
     <Container className={styles.Social} fluid align-text-bottom="True">
-		<Button href="https://www.facebook.com"><FaFacebook color="#ffffff"/></Button>
-		<Button href="https://www.instagram.com">< FaInstagram color="#00ace"/></Button>
-		<Button href="https://www.twitter.com"><FaTwitter color="#00ace"/></Button>
+		<Button href="https://www.facebook.com" target="_blank"><FaFacebook color="#ffffff"/></Button>
+		<Button href="https://www.instagram.com" target="_blank">< FaInstagram color="#00ace"/></Button>
+		<Button href="https://www.twitter.com" target="_blank"><FaTwitter color="#00ace"/></Button>
 	</Container>
 	</div>
   );
