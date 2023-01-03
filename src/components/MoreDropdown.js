@@ -3,7 +3,7 @@ import Dropdown from "react-bootstrap/Dropdown";
 import styles from "../styles/MoreDropdown.module.css";
 import { useHistory } from "react-router";
 
-const ThreeDots = React.forwardRef(({ onClick }, ref) => (
+const GreenButton = React.forwardRef(({ onClick }, ref) => (
   <i
     className="fas fa-ellipsis-v"
     ref={ref}
@@ -37,6 +37,7 @@ export const MoreDropdown = ({ handleEdit, handleDelete }) => {
        aria-label="delete">
           <i className="fas fa-trash-alt" />
       </Dropdown.Item>
+      <hr/>
     </Dropdown.Menu>
   </Dropdown>
   );
@@ -46,7 +47,7 @@ export const ProfileEditDropdown = ({ id }) => {
   const history = useHistory();
   return (
     <Dropdown className={`ml-auto px-3 ${styles.Absolute}`} drop="left">
-      <Dropdown.Toggle as={ThreeDots} />
+      <Dropdown.Toggle as={GreenButton} />
       <Dropdown.Menu>
         <Dropdown.Item
           onClick={() => history.push(`/profiles/${id}/edit`)}
@@ -69,6 +70,7 @@ export const ProfileEditDropdown = ({ id }) => {
           change password
         </Dropdown.Item>
       </Dropdown.Menu>
+      <></>
     </Dropdown>
   );
 };
