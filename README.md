@@ -4,6 +4,30 @@
 
 This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and partners.
 
+![image](https://user-images.githubusercontent.com/91749477/210559630-845538bb-1729-4935-8ea2-0aec5cf3ae97.png)
+
+
+![image](https://user-images.githubusercontent.com/91749477/210556498-7b9d1c3e-a1f4-445a-985c-1f7fbb2fd848.png)
+
+
+![image](https://user-images.githubusercontent.com/91749477/210556202-2df92f57-a6f9-4110-ae33-27b0bf24e9b4.png)
+
+![image](https://user-images.githubusercontent.com/91749477/210559849-b89d40fa-aeb9-46f9-a2e6-a5162072f48f.png)
+![image](https://user-images.githubusercontent.com/91749477/210560175-571007c8-c9c7-4162-93b5-6df0efe8390f.png)
+![image](https://user-images.githubusercontent.com/91749477/210560315-a8f175a7-d40c-43e4-ab6b-3c5b84f1d9fe.png)
+![image](https://user-images.githubusercontent.com/91749477/210560510-625699ea-2a97-4145-8e87-04b4fa672732.png)
+![image](https://user-images.githubusercontent.com/91749477/210560717-d7c3191f-49d7-45a1-9f66-76fabac40410.png)
+
+
+like and comment
+
+![image](https://user-images.githubusercontent.com/91749477/210561264-4b69bc2d-703a-4c7d-a93b-e7bfb83e0f1e.png)
+![image](https://user-images.githubusercontent.com/91749477/210561389-0b407808-b09e-437d-81e1-229994931397.png)
+![image](https://user-images.githubusercontent.com/91749477/210561461-8ef7939a-9e03-4a37-b7db-38f9a92de34e.png)
+
+![image](https://user-images.githubusercontent.com/91749477/210562168-2c7fac59-44e3-4298-9b1f-4b7c505ec79b.png)
+![image](https://user-images.githubusercontent.com/91749477/210562251-01d7ce8e-79be-4a42-b32e-fdaaff66a43f.png)
+![image](https://user-images.githubusercontent.com/91749477/210562329-216834e8-2547-4549-bca1-88deba81bc43.png)
 
 
 ## User Experience (UX)
