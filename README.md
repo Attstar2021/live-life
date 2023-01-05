@@ -136,7 +136,9 @@ like and comment
 4. [ElephentSQL:](https://www.elephantsql.com/)
  -  Elephant was used for SQL queries to create, read, update and delete data directly from my web browser.
 5. [ReactBootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
- - Bootstrap was used to assist with the responsiveness and styling of the website.  
+ - It integrate Bootstrap styles into React functionality, it removes dependency on bootstrap.js and jQuery and to incorporates Bootstrap functionality into React's virtual DOM.
+Methods and events using  jQuery are done imperatively 
+by directly manipulating the DOM..  
 6. [Hover.css:](https://ianlunn.github.io/Hover/)
  - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.    
 7. [Google Fonts:](https://fonts.google.com/)
@@ -147,27 +149,25 @@ like and comment
  - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 10. [GitHub:](https://github.com/)
  - GitHub is used to store the projects code after being pushed from Git
-11. [Cloudinary:](https://en.wikipedia.org/wiki/Cloudinary)
- - Cloudinary was used for to upload images and to store, manage, manipulate, and deliver for websites and apps.
 12. [JustinMind:](https://en.wikipedia.org/wiki/Justinmind_(software))
  - justinMind was used to make wireframes for this project.
 13. [Wix:](https://en.wikipedia.org/wiki/Wix.com)
   - Wix was use to make logo for this website
 14. [favicon.io:](https://favicon.io/favicon-converter/)
   -  Favicon.io was used to create favicon for this website.
-15. [Pillow:](https://pypi.org/project/Pillow/)
-  - This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities
-"axios": "^0.21.4",
-    "bootstrap": "^4.6.0",
+
+    [axios:](https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/)
+     -  This popular library installed to communicate with backend server. 
+    
     "jwt-decode": "^3.1.2",
-    "react": "^17.0.2",
-    "react-bootstrap": "^1.6.3",
+    
+    
     "react-dom": "^17.0.2",
     "react-icons": "^4.7.1",
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^5.3.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^1.1.2"
+    "web-vitals": 
 
 ## Testing
 
