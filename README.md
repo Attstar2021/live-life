@@ -19,22 +19,25 @@ This is a social media  website for a small community who wants to have friends 
    ### User stories
 
   #### First Time Visitor Goals
-  
-   1. As a First Time Visitor, I want to easily understand the main purpose and function of the site.
-   2. As a first time visitor, I can view Navbar from every page so that I can navigate easily between pages
-   3. As a First Time Visitor, I want to have easy but efficient signup and signin procedure to avo id any confusion.
-  
+   
+   1. As a First Time Visitor, I want to easily access, understand and use the main functions of the site. 
+      * I can view Navbar from every page so that I can easily navigate between pages.
+      * I can navigate through pages qucikly so that I can view content seamlessly with page refresh.
+      * I can view Footer from every page so that I can easily access social media links of this site.
+      * I can view message buttons on footer in polite and user friendly way to understand rules of this site.
+      
   
 ![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about my commuinty.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would 
-        be easy to access.
-        3. As a First Time Visitor, I want to look for popular profiles to stay in with trends.
-        4. As a First Time Visitor, I want to have easy to signup procedure so that, I can create a new account to access all the
-        features for signed up users
+     
 
 
 ![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
+
+2. As a First Time Vistor, I want to sign Up so that I can access all feature of this site.
+   * I can sign up with an easy to signup form so that, I can access all the features for signed up users
+      * This site doesn't take similar username to avoid any duplication of profile or confusion in account.
+      * This site doesn't take short passowrd to prevent phishing and social engineering.
+ 
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/91749477/211204682-56a6fd04-05a4-489a-beb3-9bbba0536836.png)
 
@@ -43,6 +46,16 @@ This is a social media  website for a small community who wants to have friends 
    #### Returning Visitor Goals
 
         1. As a Returning Visitor user, I want to sign in to the app so that I can access functionality for logged in users
+          * It has signin user authentication procedure to prevents unauthorized users from accessing my account.
+          * I can tell if I am logged in or not so that I can logged in if I need to.
+   
+        2. As a logged in user I can create posts so that I can share my images with the world!
+        3. As a user I can view the details of a single post so that I can learn more about it.
+        4. As a logged in user I can like a post so that I can show my support for the posts that interest me
+        
+            
+         
+         
         2.  As a Returning Visitor, I want to stay updated with online friends.
         3. As a Returing Visitor, I want to keep my favorite people so that I can check theirs comments and
          posts through filter options.
