@@ -13,10 +13,13 @@ const GreenButton = React.forwardRef(({ onClick }, ref) => (
     }}
   />
 ));
+<Dropdown.Toggle variant="success" id="dropdown-basic">
+    Dropdown Button
+  </Dropdown.Toggle>
 
 export const MoreDropdown = ({ handleEdit, handleDelete }) => {
   return (
-    <Dropdown className="ml auto" drop="left">
+    <Dropdown className="ml auto clr" drop="left">
     <Dropdown.Toggle variant="success" id="dropdown-basic">
       Edit/Delete
     </Dropdown.Toggle>
@@ -37,7 +40,6 @@ export const MoreDropdown = ({ handleEdit, handleDelete }) => {
        aria-label="delete">
           <i className="fas fa-trash-alt" />
       </Dropdown.Item>
-      <hr/>
     </Dropdown.Menu>
   </Dropdown>
   );

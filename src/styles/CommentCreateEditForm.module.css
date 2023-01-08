@@ -1,6 +1,7 @@
 .Form {
     border: none;
     border-bottom: 2px olivedrab solid;
+    display: inline-block;
   }
   
   .Button {
@@ -15,6 +16,6 @@
   
   .Button:hover {
     cursor: pointer;
-    background-color: aliceblue;
-    color: #242a3d;
+    background-color: rgb(255, 196, 0);
+    color: olivedrab;
   }
