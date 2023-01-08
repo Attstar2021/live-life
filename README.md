@@ -11,15 +11,21 @@ This is a social media  website for a small community who wants to have friends 
 
 
 
-## User Experience (UX)![Screenshot (14)](https://user-images.githubusercontent.com/91749477/211205703-27110641-6316-4159-b450-a8813f49f885.png)
+## User Experience (UX)!
 
 
-![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
+
 
    ### User stories
 
   #### First Time Visitor Goals
-
+  
+   1. As a First Time Visitor, I want to easily understand the main purpose and function of the site.
+   2. As a first time visitor, I can view Navbar from every page so that I can navigate easily between pages
+   3. As a First Time Visitor, I want to have easy but efficient signup and signin procedure to avo id any confusion.
+  
+  
+![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about my commuinty.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content seamlessly which would 
         be easy to access.
