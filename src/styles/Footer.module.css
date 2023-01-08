@@ -1,6 +1,6 @@
 .Footer{
-    background-color: rgb(255, 196, 0);
-    border: rgb(255, 196, 0) 1px solid ;
+    background-color: rgba(225, 196, 0, 0.7);
+    border: #ffc400 1px solid ;
     margin-top: 15px;
     padding: 5px;
     position: fixed;
