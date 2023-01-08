@@ -4,41 +4,17 @@
 
 This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and partners.
 
-![210559630-845538bb-1729-4935-8ea2-0aec5cf3ae97](https://user-images.githubusercontent.com/91749477/211113712-a438f52d-9fae-4dd1-8476-5c7f78dc3b90.png)
 
 
-![210556498-7b9d1c3e-a1f4-445a-985c-1f7fbb2fd848](https://user-images.githubusercontent.com/91749477/211113751-7266d5d3-afce-4450-90f7-e89675db9030.png)
-
-![210556202-2df92f57-a6f9-4110-ae33-27b0bf24e9b4](https://user-images.githubusercontent.com/91749477/211113794-7ef9eb87-0875-4cc6-8304-8fb0cd7ec387.png)
-
-![210559849-b89d40fa-aeb9-46f9-a2e6-a5162072f48f](https://user-images.githubusercontent.com/91749477/211113879-a3deda6c-f332-435a-9bb1-bc7514f3115e.png)
-
-![210560175-571007c8-c9c7-4162-93b5-6df0efe8390f](https://user-images.githubusercontent.com/91749477/211113884-866737e7-862c-497b-b327-6173fa304174.png)
-
-![210560315-a8f175a7-d40c-43e4-ab6b-3c5b84f1d9fe](https://user-images.githubusercontent.com/91749477/211113915-1e6c6768-3cdb-4709-986f-20c81f67fa27.png)
-
-![210560510-625699ea-2a97-4145-8e87-04b4fa672732](https://user-images.githubusercontent.com/91749477/211113924-221df736-c5ff-4a7f-a327-74e1b503b602.png)
-![210560717-d7c3191f-49d7-45a1-9f66-76fabac40410](https://user-images.githubusercontent.com/91749477/211113941-11d27275-5477-451a-ae79-8e0a826e1bcc.png)
-![210561264-4b69bc2d-703a-4c7d-a93b-e7bfb83e0f1e](https://user-images.githubusercontent.com/91749477/211113950-6ccfb17a-8a30-44f0-ab9a-93c1bd02ad16.png)
-![210561389-0b407808-b09e-437d-81e1-229994931397](https://user-images.githubusercontent.com/91749477/211113990-8db49293-2bd8-4e5f-b78e-3b0e6c894e96.png)
-
-
-![210561461-8ef7939a-9e03-4a37-b7db-38f9a92de34e](https://user-images.githubusercontent.com/91749477/211114001-2e3993b8-b123-4d0f-97dd-405902d852f1.png)
-
-
-![210562168-2c7fac59-44e3-4298-9b1f-4b7c505ec79b](https://user-images.githubusercontent.com/91749477/211114007-7a618902-65df-440c-bf30-045ba86c8089.png)
-
-
-![210562251-01d7ce8e-79be-4a42-b32e-fdaaff66a43f](https://user-images.githubusercontent.com/91749477/211114017-e16c4104-543f-493d-bb6e-bba15c141f39.png)
-
-
-![210562329-216834e8-2547-4549-bca1-88deba81bc43](https://user-images.githubusercontent.com/91749477/211114024-adbd3c05-5fac-4a0f-916c-e8170fb9f8c2.png)
+![main](https://user-images.githubusercontent.com/91749477/211204547-4c1b576e-31f9-46f9-8408-dec6cb096caf.png)
 
 
 
 
-## User Experience (UX)
+## User Experience (UX)![Screenshot (14)](https://user-images.githubusercontent.com/91749477/211205703-27110641-6316-4159-b450-a8813f49f885.png)
 
+
+![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
 
    ### User stories
 
@@ -52,11 +28,11 @@ This is a social media  website for a small community who wants to have friends 
         features for signed up users
 
 
-
-![4 (2)](https://user-images.githubusercontent.com/91749477/205432347-ea41efda-18dd-4e81-81c1-a0a8edd9a82c.jpg)
-
-
 ![2 (2)](https://user-images.githubusercontent.com/91749477/205432359-7afd2167-42d8-451f-93e9-78ddf29163f2.jpg)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/91749477/211204682-56a6fd04-05a4-489a-beb3-9bbba0536836.png)
+
+![Screenshot (10)](https://user-images.githubusercontent.com/91749477/211204697-80d25684-63ca-4c58-8291-d98a377dd559.png)
 
    #### Returning Visitor Goals
 
@@ -66,19 +42,65 @@ This is a social media  website for a small community who wants to have friends 
          posts through filter options.
         4. As a Returning Visitor, I want to find the their views and thoughts about other places and things.
         5. As a Returning Visitor, I want to find community links.
+![signin](https://user-images.githubusercontent.com/91749477/211204736-066ad238-b542-4a6c-be40-cb2c0d6b332c.png)
+
+![si-error2](https://user-images.githubusercontent.com/91749477/211204743-5213135e-29d6-46b3-850d-e89c91c03112.png)
+
+   ![si-error](https://user-images.githubusercontent.com/91749477/211204749-b9a1c1e5-ef2e-44c0-b972-bd8d7adbd005.png)
+
+### Post
+![Screenshot (33)](https://user-images.githubusercontent.com/91749477/211205329-f785d137-f876-485e-afe5-3da71da45440.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/91749477/211205438-422019fe-96cb-4088-a414-4c45b6680f61.png)
+
+### Profile
+
+#### follow/unfollow
+of other user
+![Screenshot (14)](https://user-images.githubusercontent.com/91749477/211205731-da93caf2-9473-4887-ae91-b8ec11aa3d58.png)
 
 
-![3 (2)](https://user-images.githubusercontent.com/91749477/205432363-6bf63bed-7b1f-420c-a14a-cca80176c9c0.jpg)
+#### edit profile
+
+![Screenshot (12)](https://user-images.githubusercontent.com/91749477/211205853-6660b034-f19f-4e9b-94c7-cfa3dea622ee.png)
 
 
-   
+![Screenshot (36)](https://user-images.githubusercontent.com/91749477/211205271-ae16069b-afbf-45aa-9880-c7f26ba1d1f1.png)
+
+![Screenshot (35)](https://user-images.githubusercontent.com/91749477/211205292-2128650e-5265-49b6-8504-37f08f26cce0.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/91749477/211205305-0917406c-8415-419e-947c-3faecedb8bdf.png)
+
+
+own profile
    #### Frequent User Goals
         1.As a Frequent User, I want to check to see what comments I got.
         2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without 
          scrolling through old posts.
         3. As a Frequent User, I want to  create posts so that I can share my thoughts and  with the online community.
         4.  As a Frequent User, I want to view the details of a single post so that I can learn more about it
-        
+
+#### like
+![Screenshot (19)](https://user-images.githubusercontent.com/91749477/211205653-59491816-6882-4536-b344-f0a26e43b00e.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/91749477/211205769-aa8ada77-b4f8-43ee-a94c-35a16784bbae.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/91749477/211205797-b8114e0f-62cd-4acf-8315-4f4ccf06d959.png)
+
+![Screenshot (22)](https://user-images.githubusercontent.com/91749477/211205925-2b086e02-a7c6-4d43-b839-d1fbf40009bf.png)
+
+
+#### comments
+
+![Screenshot (17)](https://user-images.githubusercontent.com/91749477/211205872-e82f42ab-7071-48fe-bf40-f7ba996da950.png)
+
+![Screenshot (18)](https://user-images.githubusercontent.com/91749477/211205886-ea16cfd4-28db-40d4-a990-0ffbbf2d26f8.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/91749477/211206210-2f5f87d7-af48-4678-94f3-683c7f5d4acf.png)
+
+### Footer
+
+![Screenshot (29)](https://user-images.githubusercontent.com/91749477/211206252-75b53f86-00e6-4c74-8358-e846d55694ea.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/91749477/211206258-190dbe4c-6b87-4a3c-b083-35bc6da4a2af.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/91749477/211206261-9dffe84b-c374-4fa1-935f-6cf14c36ca80.png)
 
 -   ### Design
 -   
@@ -177,7 +199,8 @@ by directly manipulating the DOM..
 
 ## Testing
 
-![lighthouse s (2)](https://user-images.githubusercontent.com/91749477/205432554-204f3b46-e175-4283-a75e-02819d0141e6.png)
+![LH-desktop](https://user-images.githubusercontent.com/91749477/211205985-04fa5bd7-5299-475a-9bea-920a6729df2f.png)
+![LH-mobile](https://user-images.githubusercontent.com/91749477/211205990-10a0991d-85b1-4549-935b-fb6f6e09d364.png)
 
 
 ### Known Bugs
@@ -195,7 +218,6 @@ While making this projects many bugs and Errors I've found here are some worth m
 
 ### Bugs left unfix
 
-![lighthouse m (2)](https://user-images.githubusercontent.com/91749477/205432530-2bfb74aa-ab4c-4238-8024-3361f2887e99.png)
 
 1. On Mobile site is taking longer then desktop
 
