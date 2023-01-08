@@ -4,11 +4,21 @@
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon-16x16.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="cyan" />
     <meta
       name="description"
       content="Web site created using create-react-app"
     />
+    <meta Cache-Control: no-cache
+    var adminManager = new ActiveXObject('Microsoft.ApplicationHost.WritableAdminManager');
+adminManager.CommitPath = "MACHINE/WEBROOT/APPHOST/Default Web Site";
+
+var staticContentSection = adminManager.GetAdminSection("system.webServer/staticContent", "MACHINE/WEBROOT/APPHOST/Default Web Site");
+var clientCacheElement = staticContentSection.ChildElements.Item("clientCache");
+clientCacheElement.Properties.Item("cacheControlMode").Value = "UseExpires";
+clientCacheElement.Properties.Item("httpExpires").Value = "Tue, 19 Jan 2038 03:14:07 GMT";
+
+adminManager.CommitChanges()>
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/apple-icon-precomposed" />
     <script src="https://kit.fontawesome.com/627c5434aa.js" crossorigin="anonymous"></script>
     <!--
