@@ -1,13 +1,29 @@
 <h1 align="center">Live Life </h1>
 
-[View the live project here.](https://live-life-ar.herokuapp.com/)
+## Features
 
-This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and partners.
+ * Responsive on all device sizes
+
+ * Interactive elements
 
 
+This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and owner.
+
+[View the live project here.](https://live-life-ar.herokuapp.com/){:target="_blank"}
 
 ![main](https://user-images.githubusercontent.com/91749477/211204547-4c1b576e-31f9-46f9-8408-dec6cb096caf.png)
 
+* [User stories:](#user-stories)
+   * [First Time Visitor Goals,](#first-time-visitor-goals) [Returning Visitor Goals,](#returning-visitor-goals) [Frequent User Goals].(#frequent-user-goals)
+* [Design:](#design)
+   * [Colour Scheme and Typography,](#colour-scheme-and-typography) [Wireframes.](#wireframes)
+* [Technologies Used:](#technologies-used)
+   * [Languages Used,](#languages-used) [Frameworks, Libraries & Programs Used.](#frameworks-libraries--programs-used)
+* [Testing:](#testing)
+   * [Lighthout,]() [:]() [:]()
+* [Deployment:](#deployment)
+   * [GitHub Pages,](#github-pages) [Heroku.](#heroku)
+* [Credits:](#credits)
 
 
 
@@ -19,12 +35,13 @@ This is a social media  website for a small community who wants to have friends 
    
    1. As a First Time Visitor, I want to easily access, understand and use the main functions of the site. 
  #### Navbar
-      * I can view Navbar from every page so that I can easily navigate between pages.
+  * I can view Navbar from every page so that I can easily navigate between pages.
    ![Screenshot (32)](https://user-images.githubusercontent.com/91749477/211206261-9dffe84b-c374-4fa1-935f-6cf14c36ca80.png)
-      * I can navigate through pages qucikly so that I can view content seamlessly with page refresh.  
+   * I can navigate through pages qucikly so that I can view content seamlessly with page refresh.  
    ![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
 #### Footer
-      * I can view Footer from every page so that I can easily access social media links of this site.
+  * I can view Footer from every page so that I can easily access social media links of this site.
+  * Whichever link I click, it will be open up in a new tab to ensure the user can easily get back to the website.
    ![Screenshot (29)](https://user-images.githubusercontent.com/91749477/211206252-75b53f86-00e6-4c74-8358-e846d55694ea.png)
       * I can view message buttons on footer in polite and user friendly way to understand rules of this site.
    ![Screenshot (30)](https://user-images.githubusercontent.com/91749477/211206258-190dbe4c-6b87-4a3c-b083-35bc6da4a2af.png)
@@ -116,29 +133,25 @@ This is a social media  website for a small community who wants to have friends 
 
 #### Frequent User Goals
 
-1. As a Frequent User, I want to check to see what comments I got.
-2. As a Frequent User, I want to check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
-3. As a Frequent User, I want to  create posts so that I can share my thoughts and  with the online community.
-4. As a Frequent User, I want to view the details of a single post so that I can learn more about it
+1. As a Frequent User, I can check what comments I got for my posts.
+2. As a Frequent User, I can Follow a profile I like.
+3. As a Frequent User, I cab check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
+4. As a Frequent User, I can to  create post, update or delete a post so that I can share my best with the online community.
 
-
-
-
-   ### Design  
-       #### Colour Scheme
-        -   The two main colours used are yellow and green.
-        -   
-   #### Typography
-        -   The DM Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. DM Sans is a clean font, so it is attractive and appropriate.
-  ### Wireframes
-
-    ####  Home Page Wireframe - 
+## Design           
+### Colour Scheme and Typography
+  * The two main colours used are yellow and green.
+  * The DM Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. DM Sans is a clean font, so it is attractive and appropriate.
     
-    - Main Page
+### Wireframes
+
+####  Home Page Wireframe 
+
+##### Main Page
    
 ![wireframe (2)](https://user-images.githubusercontent.com/91749477/205432409-7f88467a-9bf4-4252-977b-bda54a0a1e4d.png)
 
-   - Sign in & Sign up
+- Sign in & Sign up
    
      
  
@@ -148,22 +161,32 @@ This is a social media  website for a small community who wants to have friends 
 
 
  ####  Mobile Wireframe 
-   - Main Page
+   ##### Main Page
     -
 
    ![mobile (3)](https://user-images.githubusercontent.com/91749477/205433873-23c2918a-6ba3-4dc9-8c89-c5dc4857f493.png)
 
    
-   - Sign in & Sign up
+ - Sign in & Sign up
     
 ![mobile signin (2)](https://user-images.githubusercontent.com/91749477/205432475-e3196884-fce4-4fe9-995b-c660af081a00.png) ![m signup (2)](https://user-images.githubusercontent.com/91749477/205432486-82bb990c-8d80-48d7-bb46-64220f276c0d.png)
 
+### Most reused React components:
+   * PostsPage:
+      * Home, Feed, Liked
+   * Post:
+      * PostsPage
+   * Profile:
+      * PopularProfiles, PopularProfiles (mobile)
+   * DropdownMenus:
+      * Post, ProfilePage, Comment
+   * InfiniteScrollComponent:
+     * PostPage (loading Comment components)
+     * PostsPage (loading all, feed or liked Post components)
+     * ProfilePage (loading Post components that belong to the profile)
+     
+     
 
-## Features
-
--   Responsive on all device sizes
-
--   Interactive elements
 
 ## Technologies Used
 
@@ -222,6 +245,11 @@ by directly manipulating the DOM..
 ![LH-desktop](https://user-images.githubusercontent.com/91749477/211205985-04fa5bd7-5299-475a-9bea-920a6729df2f.png)
 ![LH-mobile](https://user-images.githubusercontent.com/91749477/211205990-10a0991d-85b1-4549-935b-fb6f6e09d364.png)
 
+### Further Testing
+1. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+2. The website was viewed on a variety of devices such as Desktop, Laptop, Samsung9+, etc.
+3. A large amount of testing was done to ensure that all component working properly.
+4. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
@@ -229,8 +257,9 @@ While making this projects many bugs and Errors I've found here are some worth m
 
 1. There was an error about existing posts forlder, I did force migration of it only using "python manage.py migrate posts"
 2. NavBar issue i used fluid class to sort this out.
-3. Navlink wiring I debug all code and import linked folder correctly
+3. Navlink wiring; I debug all code and import linked folder correctly
 4. error in playing app in web browser. Error "user_not_found" I change allowed host setting in setting.py in api repo.
+5. 
 
 ![error3 (2)](https://user-images.githubusercontent.com/91749477/205432578-44e9fd0c-3882-472f-bd60-b4eccf517e53.png)
 
