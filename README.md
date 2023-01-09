@@ -202,7 +202,7 @@ This is a social media  website for a small community who wants to have friends 
 -   [POSTGRESQL](https://en.wikipedia.org/wiki/PostgreSQL)
 
 ### Frameworks, Libraries & Programs Used
-
+###### Here is the list of Framwork and programes I used to create front and backend of this site and also list of libraries, component which really helps to improve user experience for this site.
 1. [ReactJS:](https://en.wikipedia.org/wiki/React_(JavaScript_library)) 
  * React was use as a front-end JavaScript library for building user interfaces based on UI components.
 2. [Django REST Framework:](https://en.wikipedia.org/wiki/Django_(web_framework))
