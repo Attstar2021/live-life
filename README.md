@@ -41,13 +41,13 @@ This is a social media  website for a small community who wants to have friends 
   * I can view Navbar from every page so that I can easily navigate between pages.
    ![Screenshot (32)](https://user-images.githubusercontent.com/91749477/211206261-9dffe84b-c374-4fa1-935f-6cf14c36ca80.png)
    * I can navigate through pages qucikly so that I can view content seamlessly with page refresh.  
-   ![main2](https://user-images.githubusercontent.com/91749477/211204565-2c573b2b-456c-4f2f-beb3-9f721ace6c7d.png)
+   
 #### Footer
-  * I can view Footer from every page so that I can easily access social media links of this site.
-  * Whichever link I click, it will be open up in a new tab to ensure the user can easily get back to the website.
+  * I can view Footer from every page so that I can access social media links of this website.
+  * The link will be open up in a new tab to ensure the user can easily get back to the website.
+  * I can view message buttons on footer in polite and user friendly way to understand rules of this site.
    ![Screenshot (29)](https://user-images.githubusercontent.com/91749477/211206252-75b53f86-00e6-4c74-8358-e846d55694ea.png)
-      * I can view message buttons on footer in polite and user friendly way to understand rules of this site.
-   ![Screenshot (30)](https://user-images.githubusercontent.com/91749477/211206258-190dbe4c-6b87-4a3c-b083-35bc6da4a2af.png)
+     
 
 
 #### SignUp
@@ -104,42 +104,39 @@ This is a social media  website for a small community who wants to have friends 
 
 ##### edit profile
 4. As a logged in user I can edit my prfile so that I can change and update my password, username and profile picture.
+   * I can update Bio and profile Avatar 
+   * I can update my username 
+   * I can change my password
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/91749477/211205853-6660b034-f19f-4e9b-94c7-cfa3dea622ee.png)
-   * I can update Bio and profile Avatar 
-
-![Screenshot (36)](https://user-images.githubusercontent.com/91749477/211205271-ae16069b-afbf-45aa-9880-c7f26ba1d1f1.png)
-   * I can update my username 
-![Screenshot (35)](https://user-images.githubusercontent.com/91749477/211205292-2128650e-5265-49b6-8504-37f08f26cce0.png)
-   * I can change my password
-![Screenshot (34)](https://user-images.githubusercontent.com/91749477/211205305-0917406c-8415-419e-947c-3faecedb8bdf.png)
+   
 
 
 #### like
-5. As a logged in user I can like a post so that I can show my support for the posts that interest me
+5. As a logged in user I can like a post so that I can show my support for the posts that interest me 
 ![Screenshot (16)](https://user-images.githubusercontent.com/91749477/211205797-b8114e0f-62cd-4acf-8315-4f4ccf06d959.png)
-   * Only signed in user can like any post
+  * Only signed in user can like any post
 ![Screenshot (19)](https://user-images.githubusercontent.com/91749477/211205653-59491816-6882-4536-b344-f0a26e43b00e.png)
-
-   * Only other user can like my post
-![Screenshot (22)](https://user-images.githubusercontent.com/91749477/211205925-2b086e02-a7c6-4d43-b839-d1fbf40009bf.png)
 
 
 #### comments
 6. As a logged in user I can comment on any post I like.
-   ![Screenshot (17)](https://user-images.githubusercontent.com/91749477/211205872-e82f42ab-7071-48fe-bf40-f7ba996da950.png)
+
+ ![Screenshot (17)](https://user-images.githubusercontent.com/91749477/211205872-e82f42ab-7071-48fe-bf40-f7ba996da950.png)
 7. As a logged in user I can edit or delete my comment any time
-   ![Screenshot (18)](https://user-images.githubusercontent.com/91749477/211205886-ea16cfd4-28db-40d4-a990-0ffbbf2d26f8.png)
-   * I can not edit or delete others comments 
+
+ ![Screenshot (18)](https://user-images.githubusercontent.com/91749477/211205886-ea16cfd4-28db-40d4-a990-0ffbbf2d26f8.png)
+   * I can only edit and delet the comment I own
 ![Screenshot (25)](https://user-images.githubusercontent.com/91749477/211206210-2f5f87d7-af48-4678-94f3-683c7f5d4acf.png)
 
 
 #### Frequent User Goals
 
 1. As a Frequent User, I can check what comments I got for my posts.
-2. As a Frequent User, I can Follow a profile I like.
-3. As a Frequent User, I cab check if there are any new intersting posts from anyone easily on top without scrolling through old posts.
-4. As a Frequent User, I can to  create post, update or delete a post so that I can share my best with the online community.
+2. As a Frequent User, I can Follow/unfollow a profile I would like to.
+3. As a Frequent User, I can view latest post on top of page to avoid unnecessary scrolling of old post.
+4. As a Frequent User, I can create post, update or delete a post so that I can share my best with the online community.
+5. As a Frequent User, I can search posts and profiles I like.
 
 ## Design           
 ### Colour Scheme and Typography
