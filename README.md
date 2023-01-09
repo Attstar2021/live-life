@@ -235,7 +235,7 @@ by directly manipulating the DOM..
   * A small browser library that helps decoding JWTs token
 17. [React-dom:](https://www.geeksforgeeks.org/reactjs-reactdom/) 
   * a package that provides DOM specific methods that can be used at the top level of a web app to enable an efficient way of managing DOM elements of the web page
-18. [:](https://www.npmjs.com/package/react-icons)
+18. [React-icons:](https://www.npmjs.com/package/react-icons)
   * React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps.
 19. [react-infinite-scroll-component:](https://www.npmjs.com/package/react-infinite-scroll-component)
   *  Infinite scroll is a popular technique that reduces the number of page loads. It can also make for a smoother user experience
