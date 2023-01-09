@@ -269,7 +269,6 @@ While making this projects many bugs and Errors I've found here are some worth m
 2. NavBar issue i used fluid class to sort this out.
 3. Navlink wiring; I debug all code and import linked folder correctly
 4. error in playing app in web browser. Error "user_not_found" I change allowed host setting in setting.py in api repo.
-5. 
 
 ![error3 (2)](https://user-images.githubusercontent.com/91749477/205432578-44e9fd0c-3882-472f-bd60-b4eccf517e53.png)
 
@@ -277,8 +276,9 @@ While making this projects many bugs and Errors I've found here are some worth m
 
 ### Bugs left unfix
 
-
-1. On Mobile site is taking longer then desktop
+1. Issue appears on  chrome DevTools
+  * A 'cache-control' header is missing or empty.
+  * -ms-filter' is not supported by Chrome, Chrome Android. Add 'filter' to support Chrome 53+, Chrome Android 53+.
 
 ## Deployment
 
@@ -334,4 +334,7 @@ The basic code and theme of the application is influenced by Code Institute's wa
 
 ### Acknowledgements
 
-With Thanks and regards to Code Institute for getting me this far from it's excellant modules content, its Tutor Assistance team for all help and dedications and my mentor Rohit for his expertise, guidance and support.
+  * With Thanks and regards to Code Institute for getting me this far from it's excellant modules content
+  *  [Stackoverflow](https://stackoverflow.com/) for helping me understanding some bugs and how to fix them
+  *  Code Institute Tutor Assistance team for all help and dedications  
+  *  My mentor Rohit for his expertise, guidance and support.
