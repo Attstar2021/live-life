@@ -9,14 +9,17 @@
 
 This is a social media  website for a small community who wants to have friends online to bring positivity and enjoyment in their lives. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential users and owner.
 
-[View the live project here.](https://live-life-ar.herokuapp.com/){:target="_blank"}
+[View the live project here.](https://live-life-ar.herokuapp.com/)
 
 ![main](https://user-images.githubusercontent.com/91749477/211204547-4c1b576e-31f9-46f9-8408-dec6cb096caf.png)
+
+## Links for headings
 
 * [User stories:](#user-stories)
    * [First Time Visitor Goals,](#first-time-visitor-goals) [Returning Visitor Goals,](#returning-visitor-goals) [Frequent User Goals](#frequent-user-goals)
 * [Design:](#design)
-   * [Colour Scheme and Typography,](#colour-scheme-and-typography) [Wireframes](#wireframes)
+   * [Colour Scheme and Typography,](#colour-scheme-and-typography) [Wireframes,](#wireframes) [Most reused React components](#most-reused-react-components)
+
 * [Technologies Used:](#technologies-used)
    * [Languages Used,](#languages-used) [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 * [Testing:](#testing)
@@ -27,7 +30,7 @@ This is a social media  website for a small community who wants to have friends 
 
 
 
-## User Experience (UX)!
+### User Experience (UX)!
 
    ## User stories
 
