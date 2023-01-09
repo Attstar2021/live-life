@@ -1,6 +1,6 @@
 <h1 align="center">Live Life </h1>
 
-## Features
+# Features
 
  * Responsive on all device sizes
 
@@ -27,7 +27,7 @@ This is a social media  website for a small community who wants to have friends 
 
 
 
-# User Experience (UX)!
+## User Experience (UX)!
 
    ## User stories
 
