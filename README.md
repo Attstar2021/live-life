@@ -20,7 +20,7 @@ This is a social media  website for a small community who wants to have friends 
 * [Technologies Used:](#technologies-used)
    * [Languages Used,](#languages-used) [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 * [Testing:](#testing)
-   * [Lighthouse,](#lighthouse) [:]() [:]()
+   * [Lighthouse,](#lighthouse) [Manual Testing,](#manual-testing) [Known Bugs,](#known-bugs) [Bugs left unfix](#bugs-left-unfix)
 * [Deployment:](#deployment)
    * [GitHub Pages,](#github-pages) [Heroku.](#heroku)
 * [Credits:](#credits)
