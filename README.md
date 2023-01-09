@@ -14,13 +14,13 @@ This is a social media  website for a small community who wants to have friends 
 ![main](https://user-images.githubusercontent.com/91749477/211204547-4c1b576e-31f9-46f9-8408-dec6cb096caf.png)
 
 * [User stories:](#user-stories)
-   * [First Time Visitor Goals,](#first-time-visitor-goals) [Returning Visitor Goals,](#returning-visitor-goals) [Frequent User Goals].(#frequent-user-goals)
+   * [First Time Visitor Goals,](#first-time-visitor-goals) [Returning Visitor Goals,](#returning-visitor-goals) [Frequent User Goals](#frequent-user-goals)
 * [Design:](#design)
-   * [Colour Scheme and Typography,](#colour-scheme-and-typography) [Wireframes.](#wireframes)
+   * [Colour Scheme and Typography,](#colour-scheme-and-typography) [Wireframes](#wireframes)
 * [Technologies Used:](#technologies-used)
-   * [Languages Used,](#languages-used) [Frameworks, Libraries & Programs Used.](#frameworks-libraries--programs-used)
+   * [Languages Used,](#languages-used) [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 * [Testing:](#testing)
-   * [Lighthout,]() [:]() [:]()
+   * [Lighthouse,](#lighthouse) [:]() [:]()
 * [Deployment:](#deployment)
    * [GitHub Pages,](#github-pages) [Heroku.](#heroku)
 * [Credits:](#credits)
@@ -201,51 +201,61 @@ This is a social media  website for a small community who wants to have friends 
 ### Frameworks, Libraries & Programs Used
 
 1. [ReactJS:](https://en.wikipedia.org/wiki/React_(JavaScript_library)) 
- - React was use as a front-end JavaScript library for building user interfaces based on UI components.
+ * React was use as a front-end JavaScript library for building user interfaces based on UI components.
 2. [Django REST Framework:](https://en.wikipedia.org/wiki/Django_(web_framework))
- - DRF was used for back-end API.
+ * DRF was used for back-end API.
 4. [ElephentSQL:](https://www.elephantsql.com/)
- -  Elephant was used for SQL queries to create, read, update and delete data directly from my web browser.
+ *  Elephant was used for SQL queries to create, read, update and delete data directly from my web browser.
 5. [ReactBootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
- - It integrate Bootstrap styles into React functionality, it removes dependency on bootstrap.js and jQuery and to incorporates Bootstrap functionality into React's virtual DOM.
+ * It integrate Bootstrap styles into React functionality, it removes dependency on bootstrap.js and jQuery and to incorporates Bootstrap functionality into React's virtual DOM.
 Methods and events using  jQuery are done imperatively 
 by directly manipulating the DOM..  
 6. [Hover.css:](https://ianlunn.github.io/Hover/)
- - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.    
+ * Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.    
 7. [Google Fonts:](https://fonts.google.com/)
- - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.     
+ * Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.     
 8. [Font Awesome:](https://fontawesome.com/)
- - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.    
+ * Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.    
 9. [Git](https://git-scm.com/)
- - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+ * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 10. [GitHub:](https://github.com/)
- - GitHub is used to store the projects code after being pushed from Git
+ * GitHub is used to store the projects code after being pushed from Git
 12. [JustinMind:](https://en.wikipedia.org/wiki/Justinmind_(software))
- - justinMind was used to make wireframes for this project.
+ * justinMind was used to make wireframes for this project.
 13. [Wix:](https://en.wikipedia.org/wiki/Wix.com)
-  - Wix was use to make logo for this website
-14. [favicon.io:](https://favicon.io/favicon-converter/)
-  -  Favicon.io was used to create favicon for this website.
+  * Wix was use to make logo for this website
+14. [Favicon:](https://favicon.io/favicon-converter/)
+  *  Favicon was used to create favicon for this website.
+15. [Axios:](https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/)
+  *  This popular library installed to communicate with backend server. 
+16. [jwt-decode:](https://en.wikipedia.org/wiki/JSON_Web_Token)
+  * A small browser library that helps decoding JWTs token
+17. [React-dom:](https://www.geeksforgeeks.org/reactjs-reactdom/) 
+  * a package that provides DOM specific methods that can be used at the top level of a web app to enable an efficient way of managing DOM elements of the web page
+18. [:](https://www.npmjs.com/package/react-icons)
+  * React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps.
+19. [react-infinite-scroll-component:](https://www.npmjs.com/package/react-infinite-scroll-component)
+  *  Infinite scroll is a popular technique that reduces the number of page loads. It can also make for a smoother user experience
+20. [React-router-dom:](https://www.geeksforgeeks.org/what-is-react-router-dom/)
+  * React Router DOM is an npm package that enables you to implement dynamic routing in a web app. It allows you to display pages and allow users to navigate them. It is a fully-featured client and server-side routing library for React.
+21. [React-scripts :](https://www.npmjs.com/package/react-scripts/)
+  * It is a set of scripts from the create-react-app starter pack. create-react-app helps you start off projects without configuring
+22. [Web Vitals:](https://www.npmjs.com/package/react-web-vitals)
+  * Web Vitals are a set of useful metrics that aim to capture the user experience of a web page
 
-    [axios:](https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/)
-     -  This popular library installed to communicate with backend server. 
-    
-    "jwt-decode": "^3.1.2",
-    
-    
-    "react-dom": "^17.0.2",
-    "react-icons": "^4.7.1",
-    "react-infinite-scroll-component": "^6.1.0",
-    "react-router-dom": "^5.3.0",
-    "react-scripts": "^5.0.1",
-    "web-vitals": 
 
 ## Testing
 
+### Lighthouse
+
+* Lighthouse scoring for Desktop view
 ![LH-desktop](https://user-images.githubusercontent.com/91749477/211205985-04fa5bd7-5299-475a-9bea-920a6729df2f.png)
+
+* Lighthouse scoring for mobile view
 ![LH-mobile](https://user-images.githubusercontent.com/91749477/211205990-10a0991d-85b1-4549-935b-fb6f6e09d364.png)
 
-### Further Testing
+### Manual Testing
+
 1. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 2. The website was viewed on a variety of devices such as Desktop, Laptop, Samsung9+, etc.
 3. A large amount of testing was done to ensure that all component working properly.
