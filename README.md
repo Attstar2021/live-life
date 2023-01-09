@@ -238,16 +238,18 @@ by directly manipulating the DOM..
 18. [React-icons:](https://www.npmjs.com/package/react-icons)
   * React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps.
 19. [react-infinite-scroll-component:](https://www.npmjs.com/package/react-infinite-scroll-component)
-  *  Infinite scroll is a popular technique that reduces the number of page loads. It can also make for a smoother user experience
+  *  Infinite scroll is a popular technique that reduces the number of page loads. It can also make for a smoother user experience.
 20. [React-router-dom:](https://www.geeksforgeeks.org/what-is-react-router-dom/)
   * React Router DOM is an npm package that enables you to implement dynamic routing in a web app. It allows you to display pages and allow users to navigate them. It is a fully-featured client and server-side routing library for React.
-21. [React-scripts :](https://www.npmjs.com/package/react-scripts/)
-  * It is a set of scripts from the create-react-app starter pack. create-react-app helps you start off projects without configuring
-22. [Web Vitals:](https://www.npmjs.com/package/react-web-vitals)
-  * Web Vitals are a set of useful metrics that aim to capture the user experience of a web page
+21.[Mock Service Worker:](https://www.npmjs.com/package/msw)
+  * This library intercepts requests on the network level and mock user and logout endpoints.
+22.  [React-scripts :](https://www.npmjs.com/package/react-scripts/)
+  * It is a set of scripts from the create-react-app starter pack. create-react-app helps start off projects without configuring
+23. [Web Vitals:](https://www.npmjs.com/package/react-web-vitals)
+  * Web Vitals are a set of useful metrics that aim to capture the user experience of a web page.
 
 
-## Testing
+## Test
 
 ### Lighthouse
 
@@ -257,7 +259,7 @@ by directly manipulating the DOM..
 * Lighthouse scoring for mobile view
 ![LH-mobile](https://user-images.githubusercontent.com/91749477/211205990-10a0991d-85b1-4549-935b-fb6f6e09d364.png)
 
-### Manual Testing
+### Manual 
 
 1. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 2. The website was viewed on a variety of devices such as Desktop, Laptop, Samsung9+, etc.
